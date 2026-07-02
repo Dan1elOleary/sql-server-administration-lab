@@ -1,0 +1,19 @@
+# Lab Diagram
+
+```text
+Local Lab Computer
+│
+├── Windows Server / Windows 11 VM
+│   │
+│   ├── SQL Server Developer Edition
+│   ├── SQL Server Management Studio
+│   ├── SQL Server Agent
+│   └── PublicSafetySupportDB
+│
+├── Backup Folder
+│   └── SQL .bak backup files
+│
+└── GitHub Repository
+    ├── SQL scripts
+    ├── Documentation
+    └── Helpdesk ticket examples
